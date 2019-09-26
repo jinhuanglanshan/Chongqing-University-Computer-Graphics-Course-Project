@@ -1,4 +1,4 @@
-# Computer-Graphics-in-CQU
+# Chongqing University Computer Graphics Course Project
 We write some classical computer graphics related algorithms based on EPOS, including DDALine, BresenhamLine, MidpointLine, MidpointCircle, BresenhamCircle, MidpointEllipse, ScanLineFill4, CS_LineClip.
 
 ---
